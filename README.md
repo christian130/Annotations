@@ -8,7 +8,14 @@ The youtube-dl will index our playlist ... then there is a series of command lin
 
 The command in question taken from https://mpv.io/manual/master/ as an example the playlist that we have above would be:
 
-Mpv https://www.youtube.com/playlist?list=PLzL3lffmd-wPr9dP6YGHUzMTch0949a_8 --no-video --playlist-pos = 2
+mpv https://www.youtube.com/playlist?list=PLzL3lffmd-wPr9dP6YGHUzMTch0949a_8 --no-video --playlist-pos = 2
 
 If we say with mpv.exe will open a window ...
 this version is tested in windows 7 64 bits... ENJOY!!!
+
+the proper syntax command is this:
+```
+#!bash
+mpv https://www.youtube.com/playlist?list=<<here_comes_your_playlist_id>> --no-video --playlist-pos = 2
+
+```
