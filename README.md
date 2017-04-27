@@ -18,3 +18,5 @@ the proper syntax command is this:
 mpv https://www.youtube.com/playlist?list=<<here_comes_your_playlist_id>> --no-video --playlist-pos = 2
 
 ```
+
+![printscreen.png](https://raw.githubusercontent.com/christian130/Annotations/master/screen.png)
