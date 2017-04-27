@@ -15,7 +15,6 @@ this version is tested in windows 7 64 bits... ENJOY!!!
 
 the proper syntax command is this:
 ```
-#!bash
 mpv https://www.youtube.com/playlist?list=<<here_comes_your_playlist_id>> --no-video --playlist-pos = 2
 
 ```
